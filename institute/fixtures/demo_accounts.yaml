@@ -32,7 +32,7 @@
 - fields:
     username: nobody
     last_name: Nobody
-    password: !
+    password: sha1$cf7ae$389ebb168bac3ab13ae855dca09d5cbb49c78ea9
   model: auth.user
   pk: 2
 - fields:
